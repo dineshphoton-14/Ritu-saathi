@@ -1,0 +1,6 @@
+{
+  "name": "RituSaathi",
+  "description": "Your Period & Wellness Companion — AI-powered menstrual cycle tracker, multilingual voice assistant, nutrition planner, PCOS/PCOD education, and offline-first health records.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="petal" x1="256" y1="96" x2="256" y2="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F5E6FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="154" fill="white" fill-opacity="0.14"/>
+  <!-- Minimalist lotus & crescent moon emblem -->
+  <path d="M256 118C228 166 218 216 256 276C294 216 284 166 256 118Z" fill="url(#petal)"/>
+  <path d="M256 276C198 258 156 214 148 164C198 176 236 216 256 276Z" fill="#FDF2F8" fill-opacity="0.92"/>
+  <path d="M256 276C314 258 356 214 364 164C314 176 276 216 256 276Z" fill="#FDF2F8" fill-opacity="0.92"/>
+  <path d="M256 306C196 306 146 274 128 228C178 232 222 260 256 306Z" fill="#FFFFFF" fill-opacity="0.82"/>
+  <path d="M256 306C316 306 366 274 384 228C334 232 290 260 256 306Z" fill="#FFFFFF" fill-opacity="0.82"/>
+  <path d="M188 352C224 374 288 374 324 352" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+</svg>
